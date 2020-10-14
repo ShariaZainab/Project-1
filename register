@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="stylesheets/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <!--JS-->
+        <script src="my.js"></script>
+
+        <!--HEADER-->
+        <header class="container group">
+            <a href="home.html"><img src="logo.png" alt="Stanley College Of Engineering & Technology For Women"></a>
+
+            <h2>
+                <nav class="primary-header">
+                    <a href="register.html">Register</a>
+                    <a href="courses.html">Courses</a>
+                    <a href="contact.html">Contact Us</a>
+                </nav>
+            </h2>
+        </header>
+
+        <!--REGISTER-->
+        <section class="grid">
+            <h3>REGISTER</h3>
+            <form action="#" class="col-2-3" onsubmit="myFunc()">
+                <fieldset class="enroll">
+                    <label>
+                        Name
+                        <br>
+                        <input type="text" name="name" placeholder="Full Name" id="name" required>
+                        <br>
+                    </label>
+
+                    <label>
+                        Email
+                        <br>
+                        <input type="email" name="email" placeholder="abc@gmail.com" id="email" required>
+                        <br>
+                    </label>
+
+                    <label>
+                        Courses
+                        <br>
+                        <select name="Course" required>
+                            <option value="CSE">Computer Science & Engineering </option>
+                            <option value="EEE">Electrical & Electronics Engineering</option>
+                            <option value="IT">Information Technology</option>
+                        </select>
+                    </label>
+                    <br>
+                    <input type="submit" name="submit" value="ENROLL" class="btn btn-sub">
+                </fieldset>
+            </form><!--
+
+            --><section class="col-1-3 guidelines">
+                    <h2>GUIDELINES</h2>
+                    <br>
+                    <br>
+                    <br>
+                    <ul class="guide">
+                        <li>Enter your name same as that on any of the legal documents</li>
+                        <li>Provide the correct e-mail ID</li>
+                        <li>One course can be choosen only</li>
+                        <li>For any queries contact us</li>
+                    </ul>
+                </section>
+
+        </section>
+
+        <footer class="primary-footer container group">
+            <small>&copy; <em> Sharia Zainab</em></small>
+        
+            <section>
+                <a href="https://www.facebook.com/stanleywomenscollege" class="fa fa-facebook"></a>
+
+                <a href="https://stanley.edu.in" class="fa fa-google"></a>
+
+                <a href="https://in.linkedin.com/in/stanley-college-of-engineering-and-technology-for-women" class="fa fa-linkedin"></a>
+
+                <a href="https://www.instagram.com/explore/locations/1033145455/india/hyderabad/stanley-college-of-engineering-and-technology-for-women/" class="fa fa-instagram"></a>
+
+                <a href="mailto:shariazainab1909@gmail.com" class="fa fa-envelope-open-o"></a>
+            </section>
+
+        </footer>
+    </body>
+</html>
