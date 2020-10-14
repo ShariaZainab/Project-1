@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="stylesheets/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <!--HEADER-->
+        <header class="container group">
+            <a href="home.html"><img src="logo.png" alt="Stanley College Of Engineering & Technology For Women"></a>
+
+            <h2>
+                <nav class="primary-header">
+                    <a href="register.html">Register</a>
+                    <a href="courses.html">Courses</a>
+                    <a href="contact.html">Contact Us</a>
+                </nav>
+            </h2>
+        </header>
+
+        <!--COURSES-->
+        <section class="container info-on-course">
+            <section id="CSE">
+                <h3>Computer Science & Engineering</h3>
+                <p>The field of Computer Science & Engineering has been pushing the envelope of almost all other disciplines, which use computing as a fundamental means of inquiry and tool for discovery. CSE offers exciting, intellectually challenging, and rapidly growing career opportunities. It is the heart of where the action is: whether this means intelligent game playing, mobile applications, smart robots, cloud computing, data security, social networks, or bioinformatics.
+                <br>
+                The Department of Computer Science & Engineering was established in 2008 with an intake of 60, enhanced to 180 in 2013. The department is headed by Dr. R. Manivannan. The department comprises 40 well qualified faculties of which 4 are Professors, 3 are Associate Professors and 33 Assistant Professors.
+                <br>
+                CSE has two primary focuses: Computer Hardware Design:- including an understanding of design methodologies for electronic circuits, and Computer Software Design:- including an understanding of design methodologies for programming, algotithms and data structures, operating systems, large-scale software development, and the principles of computing and a wide variety of software applications across various computer languages. The Department has grown rapidly ever since its establishment. The department started M.Tech programme in Software Engineering in the year 2013 with an intake of 24. 
+                <br>
+                Teaching-Learning process is given at most priority in pursuit of improving the quality of technical education. Innovative teaching aids and methodologies are used by the department towards this goal. The efficacy of the Teaching-Learning process is reflected in the consistently excellent results being achieved every year.
+                <br>
+                The department regularly organizes seminars, workshops, and guest lecturers for the students. Faculty development programs are organized for faculty to promote high standards in technical education.
+                <br>
+                We, at the Department of Computer Science and Engineering, look forward to working with you to make your engagement with our department a successful and pleasant experience.
+                <br>
+                M. Tech (Software Engineering) Software Engineering is applying engineering techniques to optimize the development of software. With the rapid adoption of Information Technology, the demand for software development has increased many-fold. A Master degree in Software Engineering prepares students to optimize this huge industry. In this two year program, students from basic undergraduate level engineering apply the aspects of software development with a set of best practices that can be used by a variety of industries resulting in simpler, better performing and more usable software.
+                <br>
+                The core purpose of M.Tech in Software Engineering is to foster state-of the-art in Software Engineers and to transition this work to the community by producing the best software professionals.
+                <br>
+                This degree provides students with the theoretical foundations of Software Engineering, experience in team projects involving software development and management, hands-on experience with state-of-the-art tools, an understanding of advanced software development and management techniques, and exposure to the most recent developments.
+                <br>
+                The Computer Science & Engineering department has set up advanced laboratory facilities and the students are trained in these laboratories regularly by allotting suitable time slots in the regular time table. Students have access to high speed broad band internet connection and a well equipped department library. The main library and department library has on- line access to IEEE Journals and magazines. Students are encouraged to participate in national level conferences & present papers.
+                <br>
+                Computer Science Engineering is a specialized discipline that combines electrical engineering and computer science. A computer science engineer is an electrical engineer with a focus on computer technology and power electronics. Hence it is a combination of these two disciplines with some transaction in between. Hence a CSE graduate may be considered as a software engineer with a focus on the relations between software programs and the underlying hardware technology.
+                <br>
+                To augment professional competence, the department supports in outside talents to gain more inputs, organizes periodical symposia and workshops not only to offer a newer dimension to the learning process but also infuse leadership qualities in the budding engineers.
+                </p>
+           </section>
+
+           <section id="EEE">
+               <h3>Electrical & Electronics Engineering</h3>
+               <p>Today, Electrical Engineering is at the forefront of the newest technology. The discipline has moved beyond wires and circuits into cutting-edge technology.
+                <br>
+                The Department of Electrical & Electronics Engineering was established in 2008 with an intake of 60 plus 12 Lateral Entry. The department is headed by Dr. V.Rajagopal who has a vast industrial and teaching experience and is ably supported by 13 well qualified vibrant faculties, which includes 01 Professor, 01 Adjunct faculty and 11 Assistant Professors. In addition, the department is supported by FIVE non-teaching staff.
+                <br>
+                The department has very well established Laboratories with sophisticated equipment supplementing the academic needs of the students. Some of the laboratories are:
+                <br>
+                1. Electrical Circuits & Measurements
+                <br>
+                2. Power Systems Lab
+                <br>
+                3. Control Systems Lab
+                <br>
+                4. Electrical Machines Lab
+                <br>
+                5. Power Electronics Lab
+                <br>
+                6. Electrical Simulation Lab
+                <br>
+                Electrical & Electronics Engineering Department conducts career developing, interpersonal and intrapersonal skills of students. It organizes Seminars, Quiz Programmes, Industrial Visits, Paper Contests, Group Discussions, Guest Lectures, Career Guidance, Games etc under its auspices.
+                <br>
+                The students are encouraged to present papers and to participate in seminars conducted in other engineering colleges. Industrial tours are arranged for students to obtain an exposure to industries.
+                <br>
+                IE (India) Students chapter and ISTE chapter are formed. A variety of academic activities are conducted under the auspices of these chapters. Two IEEE journals are subscribed, apart from subscribing to on-line digital access of all journals. Alumni Chapter is in existence. The department interacts with them and gets feedback with regard to academic, placements etc. matters. Their suggestions are taken into consideration in various developmental activities of the department.
+               </p>
+           </section>
+
+        <section id="IT">
+            <h3>Infotmation Technology</h3>
+            <p>Information Technology (IT) prepares students for careers in information technology in a variety of business settings. The graduate student is introduced to how information flows through an enterprise while presenting effective uses of technology and its applications. Since information essentially shapes an organization, the student learns the effects of managing this information, both theoretically and practically.
+            <br>
+            Information Technology has totally changed the complexion of the quality of life today, with so much of innovative research and development projects impacting everyday life. The scale of the achievement comes from the ability to integrate computer technology with communication technology.
+            <br>
+            The Department of Information Technology was established in 2008 with an intake of 60. It is headed by Dr. A. Kanaka Durga, a senior professor with vast Industrial and Teaching experience and is supported by well-qualified vibrant faculties, which includes 1 Professor, 10 Assistant Professors and 1 Teaching Assistant.
+            <br>
+            The department has made rapid strides in promoting excellence in engineering education by relentless pursuit of quality in teaching and training, keeping in mind the utility of students for future assignments in industries.
+            <br>
+            The department has spacious classrooms, air-conditioned seminar hall, and a well-equipped laboratory. The department has a dedicated computer lab with 62 systems, all in a networked environment. The department offers free high-speed Internet facility through 10 Mbps wireless RF connectivity. The department library provides useful resources to students with books on titles, volumes, International Journals, National Journals, Magazines, 50 CDs, Lab Manuals, Question banks and Project Reports.
+            <br>
+            The department employs modern teaching aids and methodologies helping the students to keep abreast of the latest trends worldwide with updated infrastructure in tune with emerging technologies & future requirements.
+            <br>
+            The department has been achieving consistently good results. Most of alumni found employment in highly reputed companies in India and abroad and a significantly large number of students have gone for higher studies in India and abroad.
+            <br>
+            
+            </p>
+        </section>
+
+        <footer class="primary-footer container group">
+            <small>&copy; <em> Sharia Zainab</em></small>
+            
+            <section>
+                <a href="https://www.facebook.com/stanleywomenscollege" class="fa fa-facebook"></a>
+
+                <a href="https://stanley.edu.in" class="fa fa-google"></a>
+
+                <a href="https://in.linkedin.com/in/stanley-college-of-engineering-and-technology-for-women" class="fa fa-linkedin"></a>
+
+                <a href="https://www.instagram.com/explore/locations/1033145455/india/hyderabad/stanley-college-of-engineering-and-technology-for-women/" class="fa fa-instagram"></a>
+
+                <a href="mailto:shariazainab1909@gmail.com" class="fa fa-envelope-open-o"></a>
+            </section>
+    
+        </footer>
+    </body>
+</html>
