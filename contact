@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="stylesheets/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <!--JS-->
+        <script src="my.js"></script>
+
+        <!--HEADER-->
+        <header class="container group">
+            <a href="home.html"><img src="logo.png" alt="Stanley College Of Engineering & Technology For Women"></a>
+
+            <h2>
+                <nav class="primary-header">
+                    <a href="register.html">Register</a>
+                    <a href="courses.html">Courses</a>
+                    <a href="contact.html">Contact Us</a>
+                </nav>
+            </h2>
+        </header>
+
+        <section class="issue">
+            <form action="#" onsubmit="myFunc()">
+                <fieldset class="enroll">
+                    <label> 
+                        Name 
+                        <br>
+                        <input typr="text" name="name" placeholder="Full Name" required>
+                    </label>
+                    <br>
+                    <label>
+                        Email ID
+                        <br>
+                        <input type="email" name="email" id="email" placeholder="abc@gmail.com" required>
+                    </label>
+                    <br>
+                    <label>
+                        Issue
+                        <br>
+                        <textarea name="issue" cols="35" id="issue" rows="15" placeholder="Write your quries" required></textarea>
+                    </label>
+                    <br>
+                    <input type="submit" value="submit" class="btn btn-sub">
+                </fieldset>   
+            </form>
+        </section>
+
+        <footer class="primary-footer container group">
+            <small>&copy; <em> Sharia Zainab</em></small>
+        
+            <section>
+                <a href="https://www.facebook.com/stanleywomenscollege" class="fa fa-facebook"></a>
+
+                <a href="https://stanley.edu.in" class="fa fa-google"></a>
+
+                <a href="https://in.linkedin.com/in/stanley-college-of-engineering-and-technology-for-women" class="fa fa-linkedin"></a>
+
+                <a href="https://www.instagram.com/explore/locations/1033145455/india/hyderabad/stanley-college-of-engineering-and-technology-for-women/" class="fa fa-instagram"></a>
+
+                <a href="mailto:shariazainab1909@gmail.com" class="fa fa-envelope-open-o"></a>
+            </section>
+
+        </footer>
+    </body>
+</html>
